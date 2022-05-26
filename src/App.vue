@@ -19,7 +19,6 @@ import { RouterView } from "vue-router";
   flex-direction: column;
   max-width: 1280px;
   margin: 0 auto;
-  font-weight: normal;
   min-height: 100vh;
   width: 100%;
 }
@@ -27,9 +26,10 @@ import { RouterView } from "vue-router";
 header {
   line-height: 1.5;
   padding: 2rem;
+  text-align: center;
 }
 
-#main {
+main {
   padding: 0 2rem;
 }
 </style>

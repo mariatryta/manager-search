@@ -44,6 +44,10 @@ npm run lint
 ## To-Do
 
 - [ ] Create search input component = [ ] show 2 managers in list + rest in overflow = [ ] enter closes search and selects manager
+  - [ ] hide dropdown menu when whole component looses 'focus'
+  - [ ] style component
+  - [ ] click, space, enter should select value
+  - arrow down enters dropdown and moves down a value
 - [ ] Fetch JSON data
 - [ ] Filter data
   - [ ] case insesitive
