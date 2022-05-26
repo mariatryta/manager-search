@@ -6,7 +6,7 @@ Main feature is accessible autocomplete, that user can navigate through with key
 
 Missing feature - currently no unit testing is present on the project. See to-do list bellow.
 
-Live site: manager-search.netlify.app
+Live site: https://manager-search.netlify.app
 
 Repo: https://github.com/mariatryta/manager-search
 
