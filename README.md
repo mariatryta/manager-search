@@ -12,7 +12,8 @@ Repo: https://github.com/mariatryta/manager-search
 
 ## Project Setup
 
-Create an .env file and copy data from .env.example
+- Create an .env file and copy data from .env.example
+- Requires node v14
 
 ```sh
 npm install
