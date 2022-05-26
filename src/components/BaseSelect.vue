@@ -193,6 +193,8 @@ export default {
     // when user clicks outside or tabs out of textfield it should close -> but tabbing into menu should not trigger this
     function toggleMenu(val) {
       showDropdown.value = val;
+      listElementInFocus.value = 0;
+      focusOnMenu.value = false;
     }
 
     function highlighOption(e, action) {
